@@ -1,0 +1,16 @@
+{
+  "name": "com.studious.runtimehelper",
+  "displayName": "Runtime Helper",
+  "version": "0.1.0",
+  "unity": "2019.4",
+  "unityRelease": "1f1",
+  "description": "A small library that helps with runnning unity code from a task.",
+  "keywords": [
+    "unity"
+  ],
+  "hideInEditor": false,
+  "dependencies": {},
+  "author": {
+    "name": "Studious Games"
+  }
+}
